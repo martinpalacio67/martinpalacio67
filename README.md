@@ -1,6 +1,6 @@
 #Martin Palacio
 ## Estudiante de ing. electronica 
-*analista de productos y proyec manager de GA.MA ITALY
+*analista de productos y proyec manager de GA.MA ITALY*
 
 <!--
 **martinpalacio67/martinpalacio67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
